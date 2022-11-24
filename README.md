@@ -1,2 +1,7 @@
 # hexlet-my-first-workflow
-### Updated workflow
+
+
+
+## GitHub Actions badge:
+https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg
+
